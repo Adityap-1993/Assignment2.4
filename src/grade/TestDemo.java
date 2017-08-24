@@ -49,15 +49,15 @@ public class TestDemo {    //Class definition
 	    System.out.println("The average is " +avg);  //printing average.
 	    
 	   if(avg>70)
-		   System.out.println("The grade of student is 'A'."); // printing this if average 
+		   System.out.println("The grade of student is 'A'."); // printing this if average is greater than 70.
 	   
 	   else if(avg>=61 && avg<=70)
 		   System.out.println("The grade of student is 'B'."); //printing this if average is between 61 and 70.
 	   
 	   else 
-		   System.out.println("The grade of student is 'C'."); //printing this if averaage is less than 61.
+		   System.out.println("The grade of student is 'C'."); //printing this if average is less than 61.
 	   
 		   
 		 }
 
-}
+}// Class closed.
